@@ -3,7 +3,7 @@ Repository of my setups for FireBot. Get Firebot here: https://firebot.app/
 <br/>
 <br/>
 
-**_Twitch Ban List Setup._**
+**_1. Twitch Ban List Setup._**
 
 This automates the task of banning lurker bots on Twitch. It can be used to ban any list of usernames presented to it in JSON array.
 <br/>
@@ -23,6 +23,6 @@ An example file looks like this:
 
 File can have extension .txt
 
-**_Extra moderation tools_**
+**_2. Extra moderation tools_**
 
 Caps spam Protection, Symbol spam Protection, Emote spam Protection, "/me" Protection. Streamer, Mod, VIP and Subscriber roles are exempt, and can be changed with the filters.
