@@ -22,3 +22,5 @@ An example file looks like this:
 ]
 
 File can have extension .txt
+
+Caps spam Protection, Symbol spam Protection, Emote spam Protection, "/me" Protection. Streamer, Mod, VIP and Subscriber roles are exempt, and can be changed with the filters.
